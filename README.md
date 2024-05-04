@@ -1,6 +1,8 @@
 # Weather-Scrapper
 
 To see the live👉: http://weather-scrapper.free.nf/?city=Paradip
+
+
 This is a web application where you can find the weather temperature of any city of country India
 
 Used Technologies are: HTML, CSS, Bootstrap, Jquery and Php
