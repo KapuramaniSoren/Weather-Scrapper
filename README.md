@@ -1,6 +1,6 @@
 # Weather-Scrapper
 
-To see the live👉: http://weather-scrapper.free.nf/?city=Paradip
+To see the live👉: http://weather-scrapper.free.nf/
 
 
 This is a web application where you can find the weather temperature of any city of country India
